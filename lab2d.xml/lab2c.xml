@@ -1,0 +1,41 @@
+<stuffs>
+    <stuff sr="1">
+        <id> 1 </id>
+        <name> john doe </name>
+        <address>
+            <house> 38 </house>
+            <flat> </flat>
+            <road> 3 </road>
+            <city> banani </city>
+            <division> dhaka </division>        
+        </address>
+        <depertment> sales </depertment>
+        <salary> $20000 </salary>
+    </stuff>
+    <stuff sr="2">
+        <id> 2 </id>
+        <name> mark zuckerberg </name>
+        <address>
+            <house> 20 </house>
+            <flat> a/1 </flat>
+            <road> 18 </road>
+            <city> mirpur </city>
+            <division> dhaka </division>  
+         </address>
+        <depertment> accounts </depertment>
+        <salary> $12000 </salary>
+    </stuff>
+    <stuff sr="3">
+        <id> 3 </id>
+        <name> ala voski </name>
+        <address>
+            <house> 38 </house>
+            <flat> </flat>
+            <road> 3 </road>
+            <city> motijheel </city>
+            <division>  </division>   
+         </address>
+        <depertment> human resource </depertment>
+        <salary> $30000 </salary>
+    </stuff>
+    </stuffs>
